@@ -1,0 +1,52 @@
+getgenv().KiTTYWARE_ColorWar = {
+    Farm_Zones = true,
+    Farming_Misc = {
+        Pets_Per_Breakable = 1,
+        Event_Specific = {
+            Color_Gifts = {Enabled = false, Minimum_Buckets = 75},
+            Clan_Points = {Enabled = false, Minimum_Buckets = 50},
+            Stay_Teams = {Enabled = false, Only_Winning = false},
+            Graffiti_Gifts = {Enabled = false},
+        },
+    },
+    Hatch_Eggs = true,
+    Hatching_Misc = {
+        discord_UserID = "",
+        hugeNotif_Webhook = "Enter your Webhook Url.",
+        hugeNotif_Enabled = false,
+        autoMail_User = "Enter your Username.",
+        autoMail_Enabled = false,
+    },
+    Farm_Minigame = true,
+
+    StatsGui = true,
+    Fps_Boost1 = false,
+    Fps_Boost2 = false,
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/38e4778402a1d51414b40ab60274c5ed.lua"))()
+getgenv().KiTTYWARE_ColorWar = {
+    Farm_Zones = true,
+    Farming_Misc = {
+        Pets_Per_Breakable = 1,
+        Event_Specific = {
+            Color_Gifts = {Enabled = false, Minimum_Buckets = 75},
+            Clan_Points = {Enabled = false, Minimum_Buckets = 50},
+            Stay_Teams = {Enabled = false, Only_Winning = false},
+            Graffiti_Gifts = {Enabled = false},
+        },
+    },
+    Hatch_Eggs = true,
+    Hatching_Misc = {
+        discord_UserID = "",
+        hugeNotif_Webhook = "Enter your Webhook Url.",
+        hugeNotif_Enabled = false,
+        autoMail_User = "Enter your Username.",
+        autoMail_Enabled = false,
+    },
+    Farm_Minigame = true,
+
+    StatsGui = true,
+    Fps_Boost1 = false,
+    Fps_Boost2 = false,
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/38e4778402a1d51414b40ab60274c5ed.lua"))()
